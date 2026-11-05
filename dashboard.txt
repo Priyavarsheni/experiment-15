@@ -1,0 +1,5 @@
+Module: Dashboard
+Features:
+- View user dashboard
+- Display project status
+- Show task summary

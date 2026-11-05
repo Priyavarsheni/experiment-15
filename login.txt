@@ -1,0 +1,5 @@
+Module: Login
+Features:
+- User login
+- User authentication
+- Logout
